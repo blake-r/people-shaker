@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to People Shaker project home page
 
-You can use the [editor on GitHub](https://github.com/blake-r/peopleshaker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Nowadays of virtual communications it's so easy to fall out of the stream of life and to narrow down an environment to close friends and coworkers only.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+That's why the project was born. Its goal is to give people the opportunity to expand their social life and get new interesting acquaintances. Do you know, how different people can be, how much interesting new communications can bring to our lives?! :dizzy:
 
-### Markdown
+### How it works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Every week our bot finds a match based on your location and interests. After receiving a contact, you negotiate suitable time and place to meet. 🤝
 
-```markdown
-Syntax highlighted code block
+One acquaintances per week may not sound significant, but let's rephrase: it is 52 new acquaintances in a year! 🌟 
 
-# Header 1
-## Header 2
-### Header 3
+### How to start
 
-- Bulleted
-- List
+At the moment the only supported interface is a Telegram bot. We plan to enlarge supporting systems later, and maybe to create an own web application.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blake-r/peopleshaker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To start getting new mates every week, just add the [@peopleshaker_bot](https://t.me/peopleshaker_bot) Telegram bot and answer its questions about you and your preferences. The first matching will happen when the project accumulates enough people (10 in a single location or 100 in total).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with using People Shaker Bot, or having a proposal of a new feature? Check out [discussions](https://github.com/blake-r/peopleshaker/discussions) or [issues](https://github.com/blake-r/peopleshaker/issues). If this won't help, create a new topic.
+
+### Project needs
+
+This project is free, so your participation is highly welcomed in those topics:
+
+1. Art. It would be nice for the project to have a personal unique logo. The currently using images are taken from open sources.
+2. Presentation and propagation. Writing attractive articles about the project and opportunities it discovers which can describe its value.
+3. Localization. It would be great if you could improve current translations or write a new one. At the moment the bot is translated to next languages:
+   * English
+   * Russian
