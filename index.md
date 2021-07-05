@@ -14,7 +14,7 @@ One acquaintance per week may not sound significant, but let's rephrase: it is 5
 
 At the moment the only supported interface is a Telegram bot. We plan to enlarge supporting systems later, and maybe to create a web application.
 
-To start getting new mates every week, just add the [@peopleshaker_bot](https://t.me/peopleshaker_bot) Telegram bot and answer its questions about you and your preferences. The first matching will happen when the project accumulates enough people (10 in a single location or 100 in total).
+To start getting new mates every week, just add the [@peopleshaker_bot](https://t.me/peopleshaker_bot) Telegram bot and answer its questions about you and your preferences. The first matching will happen when the project accumulates enough people (10 in a single location or 10 with video calls enabled who talk the same language).
 
 ### Support or Contact
 
@@ -24,8 +24,8 @@ Having trouble with using People Shaker Bot, or having a proposal of a new featu
 
 This project is free, so your participation is highly welcomed in these topics:
 
-1. Art. It would be nice for the project to have a personal unique logo. The currently using images are taken from open sources.
-2. Presentation and propagation. Writing attractive articles about the project and opportunities it discovers.
+1. Community holders. Organizing local communities using social networks and forums to find new project members who is interested in new contacts.
+2. Art. It would be nice for the project to have a personal unique logo. The currently using images are taken from open sources.
 3. Localization. It would be great if you could improve current translations or write a new one. At the moment the bot is translated to next languages:
    * English
    * Russian
